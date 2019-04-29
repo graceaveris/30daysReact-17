@@ -1,6 +1,6 @@
 **Day Seventeen - 30 days of React challenge - Random Colour Scheme Picker**
 
-A re-hashof an earlier project, create a random color scheme. 
+A rehash of an earlier project, create a random color scheme. 
 
 **Concepts Explored:**
 - Nesting Components
